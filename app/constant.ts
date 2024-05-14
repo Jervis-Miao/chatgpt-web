@@ -98,6 +98,14 @@ export const KnowledgeCutOffDate: Record<string, string> = {
 
 export const DEFAULT_MODELS = [
   {
+    name: "deepseek-chat",
+    available: true,
+  },
+  {
+    name: "deepseek-coder",
+    available: true,
+  },
+  {
     name: "gpt-4",
     available: true,
   },
