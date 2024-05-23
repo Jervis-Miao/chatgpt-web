@@ -412,7 +412,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f513",
-    name: "越狱模式 [Jailbreak]",
+    name: "越狱模式",
     context: [
       {
         id: "jb-0",
