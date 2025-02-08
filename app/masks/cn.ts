@@ -453,6 +453,12 @@ export const CN_MASKS: BuiltinMask[] = [
           "请你在思考时，至少进行15轮“自我反驳”。请你在思考时，至少进行15轮“站在反方立场辩驳”。请你在思考时，至少进行15轮“对自己的思考进行再思考”。",
         date: "",
       },
+      {
+        id: "ponder-1",
+        role: "assistant",
+        content: "我已经准备好了。",
+        date: "",
+      },
     ],
     modelConfig: {
       model: "deepseek-reasoner",
