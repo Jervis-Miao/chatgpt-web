@@ -106,6 +106,10 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
+    name: "deepseek-reasoner",
+    available: true,
+  },
+  {
     name: "gpt-4",
     available: true,
   },

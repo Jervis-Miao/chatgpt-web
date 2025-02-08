@@ -227,7 +227,7 @@ export const EN_MASKS: BuiltinMask[] = [
       },
     ],
     modelConfig: {
-      model: "deepseek-chat",
+      model: "deepseek-reasoner",
       temperature: 0.5,
       max_tokens: 2000,
       presence_penalty: 0,
